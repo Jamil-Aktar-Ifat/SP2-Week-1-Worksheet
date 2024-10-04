@@ -8,7 +8,6 @@ import java.util.Scanner;
  * Scanner scan = new Scanner(System.in);
  * System.out.println("Enter a value for x:");
  * int x = scan.nextInt();
- * Page 4
  * int smallest = x; // x is the smallest value so far
  * System.out.println("Enter a value for y:");
  * int y = scan.nextInt();
